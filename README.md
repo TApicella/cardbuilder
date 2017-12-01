@@ -1,1 +1,1 @@
-Microscope RPG tool
+Card creation tool
