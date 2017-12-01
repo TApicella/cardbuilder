@@ -1,0 +1,2 @@
+babel --presets react src --out-dir build
+browserify build/microscope.js -o js/microscope.js
